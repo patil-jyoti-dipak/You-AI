@@ -4,8 +4,7 @@ from fastapi import HTTPException
 from jose import JWTError, jwt
 from collections import defaultdict
 
-SECRET_KEY = "you2ai-secret-2025-hackathon"
-ALGORITHM = "HS256"
+
 _rate = defaultdict(list)
 
 def check_rate_limit(ip, limit=30, window=60):
