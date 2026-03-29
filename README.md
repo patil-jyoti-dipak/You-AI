@@ -174,28 +174,28 @@ Generates human-readable reasoning explaining which personality traits influence
 
 ---
 
-## 🏆 What Makes This Different
+##  What Makes This Different
 
 | Feature | Other AI Twins | You² AI |
 |---------|---------------|---------|
-| Style mimic | ✅ | ✅ |
-| Tone matching | ✅ | ✅ |
-| Decision simulation | ❌ | ✅ |
-| Multi-agent reasoning | ❌ | ✅ (5 agents) |
+| Style mimic | Yes | Yes |
+| Tone matching | Yes | Yes |
+| Decision simulation | No | Yes |
+| Multi-agent reasoning | No | Yes (5 agents) |
 | Safety layer | Weak | Dual-layer hard safety |
-| Explainable outputs | ❌ | ✅ Full reasoning |
-| GDPR-compliant | ❌ | ✅ Session deletion |
+| Explainable outputs | No | Yes Full reasoning |
+| GDPR-compliant | No | Yes Session deletion |
 
 ---
 
-## 🚀 Future Roadmap
+##  Future Roadmap
 
-- [ ] Real-time persona learning (adapts over time)
-- [ ] Compare Mode: "You vs Best Version of You"
-- [ ] Multi-language personality profiles
-- [ ] Integration with Gmail / calendar APIs
-- [ ] Export twin profile as portable JSON
-- [ ] Enterprise: HR decision-support, training systems
+   1.Real-time persona learning (adapts over time)
+   2. Compare Mode: "You vs Best Version of You"
+   3. Multi-language personality profiles
+   4. Integration with Gmail / calendar APIs
+   5. Export twin profile as portable JSON
+   6. Enterprise: HR decision-support, training systems
 
 ---
 
@@ -213,7 +213,4 @@ You² AI was designed with safety as a first-class feature:
 
 
 
----
-
-*Built for International Hackathon · Safe by Design · Your Mind, Multiplied.*
 
